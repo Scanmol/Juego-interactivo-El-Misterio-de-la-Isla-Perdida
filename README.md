@@ -45,9 +45,3 @@
 1. Descarga el archivo `.pptx` (o `.ppsx`) desde este repositorio.
 2. Ábrelo en **Microsoft PowerPoint**.
 3. Inicia la presentación en pantalla completa (`F5`) y haz clic sobre las opciones en pantalla para avanzar.
-
----
-
-## ✍️ Autor
-
-* **Sergio Cano Molina** — [Tu enlace a GitHub / LinkedIn]
