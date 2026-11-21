@@ -14,9 +14,7 @@
 
 ## Gameplay
 
-<p align="center">
-  <img src="assets/PPTXjuego-demo.gif" alt="Gameplay de El Misterio de la Isla Perdida" width="100%">
-</p>
+![Gameplay de El Misterio de la Isla Perdida](assets/PPTXjuego-demo.gif)
 
 ---
 
